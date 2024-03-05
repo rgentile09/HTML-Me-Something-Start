@@ -1,1 +1,27 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-image: url('./Images/trianglify-lowres.png');
+    background-size: cover;
+    background-color: #cccccc; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#mainHeading {
+    color: red;
+    
+}
+.funParagraph {
+    color: green;
+}
+.proEx {
+    border: 3px ridge black;
+     background-color: #7a7b7b;
+     color: #ffffff; 
+    opacity: .5;
+  }
+.links {
+    text-align: center;
+    list-style-position: inside;
+
+}
